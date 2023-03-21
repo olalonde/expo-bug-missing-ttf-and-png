@@ -1,0 +1,13 @@
+{
+  "name": "monorepo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "Unlicense",
+  "workspaces": [
+    "./apps/mobile-app"
+  ]
+}
